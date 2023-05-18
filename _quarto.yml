@@ -9,8 +9,8 @@ book:
   downloads: [pdf]
   
   page-navigation: true
-  site-url: "https://openscapes.github.io/booklet"
-  repo-url: https://github.com/openscapes/booklet
+  site-url: "https://freshbeka.github.io/booklet"
+  repo-url: https://github.com/freshbeka/booklet
   repo-actions: [edit, source, issue]
   search: true
   
@@ -19,7 +19,7 @@ book:
   #     href: https://openscapes.org
   #     text: "Openscapes.org"
   #   - icon: github
-  #     href: https://github.com/openscapes/booklet
+  #     href: https://freshbeka.github.io/booklet
   #     text: "Openscapes Series GitHub"
   #   - icon: twitter
   #     href: https://twitter.com/openscapes
