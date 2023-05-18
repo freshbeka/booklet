@@ -11,51 +11,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+Waiting for google recording
  
 
  
@@ -69,31 +25,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What stands out about that place? Why are you motivated to focus on this part of your workflow?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
+I'm motivated to focus on metadata and documentation because it is important for the future of a project.  
  
 
 :::
@@ -107,30 +39,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
+ Likley Mark Scheurelle's class and his projects. I also liked learning about ecological meta language. 
 
  
 
@@ -145,74 +54,8 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+ I'm also interested in thinking through where I keep data as an organization. I don't like the solution of excel files in SharePoint project folders... 
+ I don't know what other organziations do that have data storage systems. I also don't know what people do with hard copies of field sheets.
 
 :::
 
@@ -224,32 +67,9 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?*
 
+Solving puzzles. Making sure the pieces all fit tightly, no gaps and skipped steps. No short cuts.
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
+I want people to feel confident and encouraged. I like encouraging people. I also like laughter.
  
 
 :::
@@ -258,39 +78,15 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 ::: {.callout-caution appearance="minimal" icon="false"}
 
-
 <!---p.3--->
 
 *How do you show up in your daily life at work? For example, being on time, being organized, interacting with people.*
 
+I think my value of clear communication and tight fitting work shows up in how I structure R projects, scripts, and comment code. My hope is that if I were abducted by an alien, someone could pick up where I left off without a headache.
 
-
+I offer encouragment and words of affirmation, genuinely noticing it and sharing the positives that I observe. I also enjoy laugher, so I celebrate my funny colleagues and add humor where I can. 
  
 
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -302,71 +98,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
+I mean, it would be awesome if humor and joy were an imbeded part of my work flow! But overall a workflow that was light, easily trasferable to others, and joyful would be amazing!  
 
  
 
