@@ -7,53 +7,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+I do my best work when each step of a project is well aligned. When I have my bearings, from the conceptual basis though data collection, analysis, and results communication, I feel centered and able to lean into challenges. I work well when I have momentum. I gain momentum fastest when solving puzzles. 
 
  
 :::
@@ -67,31 +21,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? Do you take screenshots? If you analyze data or images, what do you use?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
+I use several Microsoft365 products at work. Excel (and Access) for data storage, word for documents, Notebook for notes, meeting notes, etc. I use a folder for document storage and Zotero for citations. For documents I tend to name versions with yearmmdd and then initials at the end if a version recieved comments. I often do saveas to start a new version after edits/comments and create a folder called "archive" for past versions. I use git/GitHub for version control with data analysis. Sometimes I do a similar archiving of scripts that I'm slightly afraid of fully deleating, and I put them in an archive folder in an Rproject. Data and documents related to a project are stored in Teams/Sharepoint. I like that all my github based projects are in a GitHub folder.
 
  
 :::
@@ -104,33 +34,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *How do you organize them? Do you download and save in folders? How do you find them?*
 
-  
+I work with excel, csv, text, and tab deliminated files. I'm trying to host files on a single sourced location such as keeping them in Teams or trying socrata. I deliberately am trying not to download and save in folders.  
 
  
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
 :::
 
 ## What does your workflow look like? 
@@ -141,73 +47,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? How do software and files connect together? You can draw this*
 
+Design project (word, zotero)-> collect data (often writing on paper) -> compile data (in excel) -> describe dataset, then analyze data (with R) -> then write up findings (R, word, Zotero)
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
+I'm doing this on multiple projects at a time.
  
 :::
 
@@ -220,34 +62,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
 
-  
+I use my notebook and I try to remind myself with boxes of the things I need to do and to do lists I also have a physical notebook for my work at King County. I also sometimes write in a field notebook.  
 
  
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
 :::
 
 ## How do you collaborate with colleagues? 
@@ -258,30 +75,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
+ I primarily work with Jen V. We share files in sharepoint. We communicate via email or chat or meetings. Otherwise I'm getting data from other sources. I don't have a strong project collaborative work system.
 
  
 
@@ -296,33 +90,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+My RProject structure and relationship with git/GitHub is good. I like that all my Rprojects are in one location on my machine. I like that they are structured similarly to eachother. I like how I organize scripts and outputs within the projects. I also like my goals of always having a single source of data.
 
 :::
 
@@ -335,41 +103,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
-
+I don't systematically keep up with metadata and documentation. 
   
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -381,72 +117,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
+Metadata and documentation. What base structure, system, strategy? Just a readme? A tab in excel? What about when I add fields? etc
 
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 :::
