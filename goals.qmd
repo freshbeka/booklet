@@ -10,51 +10,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What drives you? Who are your allies, colleagues, and mentors that give you energy and support?*
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+I want to revisit the concept of having my project clearly documented as I work. Not just a reproducible product at the end, but a process that is clear even when a project is in process. The tight fitting package. 
 
  
 :::
@@ -67,32 +23,12 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *Dream big. Why are you committed to these goals?*
 
+The big is the infrastructure. I need and want to land at an infastructure that I use and interate off of for each project. I think this could include meeting with Erika, to learn about her workflow and folder structure/tool structure. I could dig more into the Openscapes tools and structure. I am committed to these goals for several reasons.
+
+1. I can't hold a ton of random bits of information in my head. I can hold a system in my head. If I have a system that links togethter, then I can hold the project process together better.
+2. Kind to others
+3. Duty as scientist and steward of planet.
   
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 :::
 
@@ -105,34 +41,12 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What are the possibilities? And what are the barriers? What questions do you need answered, what conversations do you need to have?*
 
-  
+ I can control the exploration process. I can control how I structure my projects. I can control a lot! In the short term, it is about setting aside time.
+ In the long term, it is about being consistent and iterating on what I've learned.
+ 
+ The biggest "barrers" or limitations are some of the tools that come with my workplace. Data storage options and digital tools.
 
  
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
 :::
 
 ## What actions can you take this summer in service of these bigger goals?
@@ -144,76 +58,9 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What would you like to experiment with? Where is a place you could try something new? For example - if I feel behind every morning, what would it look like to not set meetings before 10am?*
 
-
-  
-
- 
-
-  
+I can learn about project structures and reorganize a few of them. I have the most influence over the Chinook Bend project. I can find a buddy to work with. Maybe Aaron, or someone else, on project structures. I can reach out to highly organized people and learn from them. Erika, Julian, Maybe some others. I need/want to improve on my systems and structures of organization.
 
  
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
 :::
 
 ## What would success look like? 
@@ -224,33 +71,8 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What feedback would you need from yourself to know if your actions/ experiment is working or needs to be iterated? How can you give yourself grace?*
 
-
+Success would look like a colleage not asking about where informaiton is, but rather finding it idependently. Success would be joy when in process instead of frustration and uncertainty about what to do with information and data. Success also will include the Upper Green project running extremely smoothly. The main feedback from myself is comfortableness, ease, relaxed feelings when navigating and storing information. The opposite is uncertainty and frustration. And, I can give myself grace by reminding myself that I'm in process.
   
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 :::
 
@@ -264,32 +86,8 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What support or accountability could help you? For example, journaling or sharing progress with a colleague for a set period of time*
 
-  
+The highest likelyhood of success is having a colleage and companion on this journey. I'm not sure who that is! I also could commit to journaling and/or moving through resources. I like that Perry asked me to share out about this experience.
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 :::
 
@@ -300,73 +98,9 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 <!---p.5--->
 
-
+I feel myself leaning into inviting coworkers at KC to do something similar to what we are doing here, just being together and thinking about the same things. I believe this might be similar to Seaside chats, but I'm not sure. That feels exciting to have companions on this journey. I know I cannot be a trail guide (i.e., someone who shows the way), but I can be a catalyst for thinking and journeying together with colleagues in a really positive way.
   
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
+Yet... not noy
  
 
 :::
